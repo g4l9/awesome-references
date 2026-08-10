@@ -103,6 +103,10 @@
 
 `Article` [talosintelligence - cisco](https://www.talosintelligence.com)
 
+`Article` [Reflections on Trusting Trust](https://css.csail.mit.edu/6.5660/2024/readings/trusting-trust.pdf)
+
+`Video` [Reflections on Trusting Trust for Go - GopherConSG 2018](https://www.youtube.com/watch?v=T82JttlJf60)
+
 ## GUI/UI
 
 `Tool` [skia](https://skia.org/)
