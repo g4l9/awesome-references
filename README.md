@@ -16,9 +16,7 @@
 
 `Article` [The Coded Message - Jimmy Hartzell - Rust/C++](https://www.thecodedmessage.com/)
 
-## Languages
-
-[back to content](#content)
+## Languages [⇧](#content)
 
 ### Rust
 
@@ -30,9 +28,7 @@
 
 `Video` [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM)
 
-## Mathematics
-
-[back to content](#content)
+## Mathematics [⇧](#content)
 
 `Article` [Mathematics for Computer Science (MIT)](https://mitocw.ups.edu.ec/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
 
@@ -48,17 +44,14 @@
 
 `Article` [Why Category Theory Matters ri.io](https://rs.io/why-category-theory-matters/)
 
-## Algorithm
+## Algorithm [⇧](#content)
 
-[back to content](#content)
 
 `Article` [Bit Twiddling Hacks - Sean Eron Anderson](https://graphics.stanford.edu/~seander/bithacks.html#)
 
 `Article` [Hackers Delight](https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/)
 
-## Memory Model
-
-[back to content](#content)
+## Memory Model [⇧](#content)
 
 ### General
 
@@ -103,9 +96,7 @@
 
 `Video` [2013 Spring: 15-418: Parallel Computer Architecture and Programming](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22dec5d23e-fec9-4f51-b532-f7adcf31276c%22)
 
-## Security
-
-[back to content](#content)
+## Security [⇧](#content)
 
 `Article` [Binary code obfuscation through C++ template metaprogramming](https://old.cisuc.uc.pt/publication/showfile?fn=1357250736_metaobfv3.pdf)
 
@@ -127,17 +118,13 @@
 
 `Video` [Reflections on Trusting Trust for Go - GopherConSG 2018](https://www.youtube.com/watch?v=T82JttlJf60)
 
-## GUI/UI
-
-[back to content](#content)
+## GUI/UI [⇧](#content)
 
 `Tool` [skia](https://skia.org/)
 
 `Tool` [qt](https://www.qt.io/)
 
-## Games
-
-[back to content](#content)
+## Games [⇧](#content)
 
 `Article` [Game Path - miloyip](https://github.com/miloyip/game-programmer)
 
