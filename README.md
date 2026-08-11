@@ -1,5 +1,15 @@
 # Awesome references
 
+## Content
+
+- [Blogs](#blogs)
+- [Languages](#languages)
+- [Mathematics](#mathematics)
+- [Algorithm](#algorithm)
+- [Memory Model](#memory-model)
+- [GUI/UI](#guiui)
+- [Games](#games)
+
 ## Blogs
 
 `Article` [Psychosomatic, Lobotomy, Saw](http://psy-lob-saw.blogspot.com)
@@ -7,6 +17,8 @@
 `Article` [The Coded Message - Jimmy Hartzell - Rust/C++](https://www.thecodedmessage.com/)
 
 ## Languages
+
+[back to content](#content)
 
 ### Rust
 
@@ -19,6 +31,8 @@
 `Video` [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM)
 
 ## Mathematics
+
+[back to content](#content)
 
 `Article` [Mathematics for Computer Science (MIT)](https://mitocw.ups.edu.ec/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
 
@@ -36,11 +50,15 @@
 
 ## Algorithm
 
+[back to content](#content)
+
 `Article` [Bit Twiddling Hacks - Sean Eron Anderson](https://graphics.stanford.edu/~seander/bithacks.html#)
 
 `Article` [Hackers Delight](https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/)
 
 ## Memory Model
+
+[back to content](#content)
 
 ### General
 
@@ -87,6 +105,8 @@
 
 ## Security
 
+[back to content](#content)
+
 `Article` [Binary code obfuscation through C++ template metaprogramming](https://old.cisuc.uc.pt/publication/showfile?fn=1357250736_metaobfv3.pdf)
 
 `Article` [ired.team](https://www.ired.team)
@@ -109,13 +129,15 @@
 
 ## GUI/UI
 
+[back to content](#content)
+
 `Tool` [skia](https://skia.org/)
 
 `Tool` [qt](https://www.qt.io/)
 
-`Tool` [cacao - rust bindings for AppKit (macOS)](https://github.com/ryanmcgrath/cacao)
-
 ## Games
+
+[back to content](#content)
 
 `Article` [Game Path - miloyip](https://github.com/miloyip/game-programmer)
 
@@ -128,17 +150,3 @@
 `Tool` [SDL2 - Simple DirectMedia Layer](https://www.libsdl.org/)
 
 `Article` [Vulkan Cheat Sheet](https://www.khronos.org/files/vulkan11-reference-guide.pdf)
-
-## Tools
-
-[powertoys](https://learn.microsoft.com/ru-ru/windows/powertoys/)
-
-[lunarvim](https://www.lunarvim.org/)
-
-[AstroNvim](https://github.com/LunarVim/LunarVim)
-
-[Warp](https://github.com/warpdotdev/Warp)
-
-[nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-
-[kitty](https://sw.kovidgoyal.net/kitty/)
