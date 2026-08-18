@@ -7,6 +7,7 @@
 - [Mathematics](#mathematics)
 - [Algorithm](#algorithm)
 - [Memory Model](#memory-model)
+- [Compiler](#compilers)
 - [GUI/UI](#guiui)
 - [Games](#games)
 
@@ -100,6 +101,10 @@
 `Article` [Memory Barriers: a Hardware View for Software Hackers by Paul E. McKenney](http://www.puppetmastertrading.com/images/hwViewForSwHackers.pdf)
 
 `Video` [2013 Spring: 15-418: Parallel Computer Architecture and Programming](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22dec5d23e-fec9-4f51-b532-f7adcf31276c%22)
+
+## Compilers
+
+`Video` [Don't Forget To Flush by Andrew Kelley](https://www.youtube.com/watch?v=f30PceqQWko)
 
 ## Security
 [⇧](#content)
