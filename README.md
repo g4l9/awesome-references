@@ -7,7 +7,7 @@
 - [Mathematics](#mathematics)
 - [Algorithm](#algorithm)
 - [Memory Model](#memory-model)
-- [Compiler](#compilers)
+- [Compilers](#compilers)
 - [GUI/UI](#guiui)
 - [Games](#games)
 
