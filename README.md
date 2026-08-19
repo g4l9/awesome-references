@@ -5,6 +5,7 @@
 - [Blogs](#blogs)
 - [Languages](#languages)
 - [Mathematics](#mathematics)
+- [Patterns](#patterns)
 - [Algorithm](#algorithm)
 - [Memory Model](#memory-model)
 - [Compilers](#compilers)
@@ -48,9 +49,15 @@
 
 `Article` [Why Category Theory Matters ri.io](https://rs.io/why-category-theory-matters/)
 
-## Algorithm
+## Patterns
 [⇧](#content)
 
+`Video` [CppCon 2014: Mike Acton "Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+
+`Video` [Andrew Kelley: A Practical Guide to Applying Data Oriented Design (DoD)](https://www.youtube.com/watch?v=IroPQ150F6c)
+
+## Algorithm
+[⇧](#content)
 
 `Article` [Bit Twiddling Hacks - Sean Eron Anderson](https://graphics.stanford.edu/~seander/bithacks.html#)
 
