@@ -11,6 +11,7 @@
 - [Compilers](#compilers)
 - [GUI/UI](#guiui)
 - [Games](#games)
+- [Hardware](#hardware)
 
 ## Blogs
 [⇧](#content)
@@ -157,3 +158,7 @@
 `Tool` [SDL2 - Simple DirectMedia Layer](https://www.libsdl.org/)
 
 `Article` [Vulkan Cheat Sheet](https://www.khronos.org/files/vulkan11-reference-guide.pdf)
+
+## Hardware
+
+[ifixit](https://www.ifixit.com/)
