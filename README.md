@@ -27,11 +27,13 @@
 
 `Article` [Procedural macros under the hood part 1](https://blog.jetbrains.com/rust/2022/03/18/procedural-macros-under-the-hood-part-i/)
 
-### Language Comparison
-
 `Article` [CPP vs Rust - maulingmonkey](https://maulingmonkey.com/guide/cpp-vs-rust/)
 
 `Video` [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM)
+
+### C++
+
+`Video` [Back to Basics: Move Semantics - Ben Saks - CppCon 2025](https://www.youtube.com/watch?v=szU5b972F7E)
 
 ## Mathematics
 [⇧](#content)
