@@ -34,6 +34,7 @@
 ### C++
 
 `Video` [Back to Basics: Move Semantics - Ben Saks - CppCon 2025](https://www.youtube.com/watch?v=szU5b972F7E)
+`Video` [The worst programming language of all time](https://www.youtube.com/watch?v=7fGB-hjc2Gc)
 
 ## Mathematics
 [⇧](#content)
