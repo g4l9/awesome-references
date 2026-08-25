@@ -35,6 +35,7 @@
 
 `Video` [Back to Basics: Move Semantics - Ben Saks - CppCon 2025](https://www.youtube.com/watch?v=szU5b972F7E)
 `Video` [The worst programming language of all time](https://www.youtube.com/watch?v=7fGB-hjc2Gc)
+`Video` [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
 
 ## Mathematics
 [⇧](#content)
