@@ -12,6 +12,7 @@
 - [GUI/UI](#guiui)
 - [Games](#games)
 - [Hardware](#hardware)
+- [Tools](#tools)
 
 ## Blogs
 [⇧](#content)
@@ -169,3 +170,10 @@
 [⇧](#content)
 
 [ifixit](https://www.ifixit.com/)
+
+## Tools
+[⇧](#content)
+
+[rufus](https://rufus.ie/en/)
+
+[balenaetcher](https://etcher.balena.io/)
