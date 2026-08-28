@@ -12,6 +12,7 @@
 - [GUI/UI](#guiui)
 - [Games](#games)
 - [Hardware](#hardware)
+- [Linux](#linux)
 - [Tools](#tools)
 
 ## Blogs
@@ -170,6 +171,11 @@
 [⇧](#content)
 
 [ifixit](https://www.ifixit.com/)
+
+## Linux
+[⇧](#content)
+
+[omarchy](https://github.com/basecamp/omarchy)
 
 ## Tools
 [⇧](#content)
