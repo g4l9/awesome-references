@@ -41,6 +41,8 @@
 
 `Video` [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
 
+`Article` [Modern C++ Programming by Federico](https://federico-busato.github.io/Modern-CPP-Programming/)
+
 ## Mathematics
 [⇧](#content)
 
