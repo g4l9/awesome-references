@@ -43,6 +43,8 @@
 
 `Article` [Modern C++ Programming by Federico](https://federico-busato.github.io/Modern-CPP-Programming/)
 
+`Channel` [TheCherno](https://www.youtube.com/@TheCherno)
+
 ## Mathematics
 [⇧](#content)
 
