@@ -45,6 +45,10 @@
 
 `Channel` [TheCherno](https://www.youtube.com/@TheCherno)
 
+`Article` [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+`Article` [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
 ## Mathematics
 [⇧](#content)
 
