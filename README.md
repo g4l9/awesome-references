@@ -13,6 +13,8 @@
 - [Games](#games)
 - [Hardware](#hardware)
 - [Linux](#linux)
+- [HTTP](#http)
+- [DB](#db)
 - [Tools](#tools)
 
 ## Blogs
@@ -24,6 +26,10 @@
 
 ## Languages
 [⇧](#content)
+
+### Zig
+
+`Zig` [Zig](https://ziglang.org/)
 
 ### Rust
 
@@ -184,6 +190,16 @@
 [⇧](#content)
 
 [omarchy](https://github.com/basecamp/omarchy)
+
+## HTTP
+[⇧](#content)
+
+[Anubis](https://anubis.techaro.lol/)
+
+## DB
+[⇧](#content)
+
+[tigerbeetle](https://tigerbeetle.com/)
 
 ## Tools
 [⇧](#content)
